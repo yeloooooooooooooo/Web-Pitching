@@ -1,0 +1,754 @@
+
+.B1 {
+    background-color: black; 
+    height: 1030px;
+    width: 1000px;
+}
+
+.BU1 {
+    background-color: black;
+    border-color: black;
+    border-style: solid;
+    width: 175.78px;
+    height: 66px;
+    border-radius: 10px;
+    transition-duration: .1s;
+}
+
+
+.BU1:hover{
+    background-color:grey ;
+    border: none;
+    border-radius: 2px;
+}
+
+.I1 {
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    margin-right: 3px;
+    vertical-align: middle;
+}
+
+.D2 {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.D3 {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 270px;
+}
+
+.S1 {
+    background-color: grey;
+    width: 500px;
+    height: 25px;
+    border-color: gray;
+    border-radius: 12.5px;
+    border-style: solid;
+   
+}
+
+::placeholder {
+    color: white;
+}
+
+.D5 {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.D6 {
+    display: inline-block;
+    width: 777px;
+    vertical-align: top;
+    margin-top: 14px;
+    margin-left: 8px;
+}
+
+.S2 {
+    background-color: black;
+    width: 250px;
+    height: 25px;
+    border-color: gray;
+    border-radius: 8px;
+    border-style: solid;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+.I2 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 3px;
+    vertical-align: middle;
+}
+
+.I3 {
+    height: 160px;
+    width: 120px;
+    border-radius: 8px;
+    margin-top: 12px;
+    display: inline-block;
+    margin-bottom: 12px;
+    vertical-align: middle;
+}
+
+.D7 {
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+    margin-top: 10px;
+    height: 250px;
+    
+}
+
+.B11 {
+    width: 120px;
+    height: 50px;
+    display: block;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+    font-size: 10px;
+    transition-duration: .8s;
+}
+
+.B11:hover {
+    background-color: white;
+    color: gray;
+}
+.D8{
+    display: block;
+    width: 175.78px;
+    height: 150px;
+   
+}
+
+.P1 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.B2 {
+    width: 175.78px;
+    height: 40px;
+    display: block;
+    margin-top: 90px;
+    padding-right: 90px;
+    background-color: black;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+    transition-duration: .8s;
+}
+
+.B2:hover {
+    background-color: white;
+    color: gray;
+}
+
+.B3 {
+    width: 175.78px;
+    height: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: block;
+    padding-right: 84px;
+    background-color: black;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+    transition-duration: .8s;
+}
+
+.B3:hover {
+    background-color: white;
+    color: gray;
+}
+
+.B4 {
+    width: 175.78px;
+    height: 40px; 
+    display: block;
+    padding-right: 96px;
+    background-color: black;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+    transition-duration: .8s;
+}
+
+.B4:hover {
+    background-color: white;
+    color: gray;
+}
+
+
+.B5 {
+    width: 175.78px;
+    height: 40px; 
+    display: block;
+    padding-right: 87px;
+    background-color: black;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: none;
+    border-radius: 4px;
+    transition-duration: .8s;
+}
+
+.B5:hover {
+    background-color: white;
+    color: black;
+    transition-duration: .8s;
+}
+
+.B6 {
+    width: 175.78px;
+    height: 40px; 
+    display: block;
+    padding-right: 43px;
+    background-color: black;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+    transition-duration: .8s;
+}
+
+.B6:hover {
+    background-color: white;
+    color: black;
+    transition-duration: .8s;
+}
+
+.B7 {
+    width: 175.78px;
+    height: 40px; 
+    display: block;
+    padding-right: 107px;
+    background-color: black;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: none;
+    border-radius: 4px;
+    transition-duration: .8s;
+}
+
+.B7:hover {
+    background-color: white;
+    color: black;
+    transition-duration: .8s;
+}
+
+.B8 {
+    width: 175.78px;
+    height: 40px; 
+    display: block;
+    padding-right: 43px;
+    background-color: black;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+    transition-duration: .8s;
+}
+
+.B8:hover {
+    background-color: white;
+    color: black;
+    transition-duration: .8s;
+}
+
+.D9 {
+    display: block;
+    width: 175.78px;
+    height: 300px;
+}
+
+.B9 {
+    width: 175.78px;
+    height: 40px; 
+    display: block;
+    padding-right: 87px;
+    background-color: black;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: none;
+    border-radius: 4px;
+    transition-duration: .8s;
+}
+
+.B9:hover {
+    background-color: white;
+    color: black;
+    transition-duration: .8s;
+}
+
+.B0 {
+    width: 175.78px;
+    height: 40px;
+    display: block;
+    margin-top: 5px;
+    padding-right: 76px;
+    background-color: black;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+    transition-duration: .8s;
+}
+
+.B0:hover {
+    background-color: white;
+    color: gray;
+}
+
+.D0 {
+    display: inline-block;
+}
+
+.D11 {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.I4 {
+    height: 160px;
+    width: 120px;
+    border-radius: 8px;
+    margin-top: 12px;
+    display: inline-block;
+    margin-bottom: 12px;
+    vertical-align: middle;
+}
+
+.B12 {
+    width: 120px;
+    height: 50px;
+    display: block;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+    font-size: 10px;
+    transition-duration: .8s;
+}
+
+.B12:hover {
+    background-color: white;
+    color: gray;
+}
+
+.D12 {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.I5{
+    height: 160px;
+    width: 120px;
+    border-radius: 8px;
+    margin-top: 12px;
+    display: inline-block;
+    margin-bottom: 12px;
+    vertical-align: middle;
+}
+
+.B13 {
+    width: 120px;
+    height: 50px;
+    display: block;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+    font-size: 10px;
+    transition-duration: .8s;
+}
+
+.B13:hover {
+    background-color: white;
+    color: gray;
+}
+.D13 {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.I6 {
+    height: 160px;
+    width: 120px;
+    border-radius: 8px;
+    margin-top: 12px;
+    display: inline-block;
+    margin-bottom: 12px;
+    vertical-align: middle;
+}
+
+.B14 {
+    width: 120px;
+    height: 50px;
+    display: block;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+    font-size: 10px;
+    transition-duration: .8s;
+}
+
+.B14:hover {
+    background-color: white;
+    color: gray;
+}
+
+.D14 {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.I7 {
+    height: 160px;
+    width: 120px;
+    border-radius: 8px;
+    margin-top: 12px;
+    display: inline-block;
+    margin-bottom: 12px;
+    vertical-align: middle;
+}
+
+.B15 {
+    width: 120px;
+    height: 50px;
+    display: block;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+    font-size: 10px;
+    transition-duration: .8s;
+}
+
+.B15:hover {
+    background-color: white;
+    color: gray;
+}
+
+.D15 {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.I8 {
+    height: 160px;
+    width: 120px;
+    border-radius: 8px;
+    margin-top: 12px;
+    display: inline-block;
+    margin-bottom: 12px;
+    vertical-align: middle;
+}
+
+.B16 {
+    width: 120px;
+    height: 50px;
+    display: block;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 10px;
+    transition-duration: .8s;
+}
+
+.B16:hover {
+    background-color: white;
+    color: gray;
+}
+
+.D16 {
+    display: block;
+    height: 620px;
+    
+}
+
+.D17 {
+    display: inline-block;
+    vertical-align: top;
+    height: 620px;
+}
+.D19{
+    display: inline-block;
+    margin-top: 8px;
+    vertical-align: top;
+    background-color: black;
+    height: 620px;
+    width: 630.77px;
+}
+
+.BU2 {
+    background-color: black;
+    border-color: black;
+    border-style: solid;
+    width: 175.78px;
+    height: 66px;
+    border-radius: 10px;
+    transition-duration: .1s;
+    vertical-align: middle;
+}
+
+
+.BU2:hover{
+    background-color:grey ;
+    border: none;
+    border-radius: 2px;
+}
+
+.I9 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-right: 3px;
+    vertical-align: middle;
+}
+
+.P2 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.MENU {
+    background-color: black;
+    border-radius: 4px;
+    border-style: solid;
+    margin-left: 400px;
+    vertical-align: middle;
+    border-color: beige;
+    animation-duration: .5s;
+}
+
+.MENU:hover {
+    background-color: white;
+    opacity: 50%;
+}
+
+.M1 {
+    width: 35px;
+    height: 3px;
+    background-color: white;
+    margin: 4px 0;
+    animation-duration: .5s;
+}
+
+
+.M2 {
+    width: 35px;
+    height: 3px;
+    background-color: white;
+    margin: 4px 0;
+}
+
+
+.M3 {
+    width: 35px;
+    height: 3px;
+    background-color: white;
+    margin: 4px 0;
+}
+
+.P3 {
+    color: white;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.BU3 {
+    background-color: black;
+    border-color: black;
+    border-style: solid;
+    width: 200px;
+    height: 66px;
+    border-radius: 10px;
+    transition-duration: .1s;
+    vertical-align: middle;
+}
+
+.BU3:hover{
+    background-color:grey ;
+    border: none;
+    border-radius: 2px;
+}
+
+
+
+.MENU2 {
+    background-color: black;
+    border-radius: 4px;
+    border-style: solid;
+    margin-left: 374.23px;
+    vertical-align: middle;
+    border-color: beige;
+    animation-duration: .5s;
+}
+
+.MENU2:hover {
+    background-color: white;
+    opacity: 50%;
+}
+
+.D21 {
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+
+.Like{
+    background-color: black;
+    border-color: black;
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: whitesmoke;
+    margin-left: 25px;
+    vertical-align: middle;
+    transition-duration: .1s;
+    animation-duration: .8s;
+}
+
+.Like:hover{
+    background-color: gray;
+    border-color: black;
+}
+
+
+.Comment{
+    background-color: black;
+    border-color: black;
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    border-color:whitesmoke;
+    margin-left: 25px;
+    vertical-align: middle;
+    transition-duration: .1s;
+    animation-duration: .8s;
+}
+
+.Comment:hover{
+    background-color: gray;
+    border-color: black;
+}
+
+.Share {
+    background-color: black;
+    border-color: black;
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    border-color:whitesmoke;
+    margin-left: 25px;
+    vertical-align: middle;
+    transition-duration: .1s;
+    animation-duration: .8s;
+}
+
+.Share:hover{
+    background-color: gray;
+    border-color: black;
+}
+
+.Like1{
+    background-color: black;
+    border-color: black;
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: whitesmoke;
+    margin-left: 25px;
+    vertical-align: middle;
+    transition-duration: .1s;
+    animation-duration: .8s;
+}
+
+.Like1:hover{
+    background-color: gray;
+    border-color: black;
+}
+
+
+.Comment1{
+    background-color: black;
+    border-color: black;
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    border-color:whitesmoke;
+    margin-left: 25px;
+    vertical-align: middle;
+    transition-duration: .1s;
+    animation-duration: .8s;
+}
+
+.Comment1:hover{
+    background-color: gray;
+    border-color: black;
+}
+
+.Share1 {
+    background-color: black;
+    border-color: black;
+    border-style: solid;
+    width: 90px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    border-color:whitesmoke;
+    margin-left: 25px;
+    vertical-align: middle;
+    transition-duration: .1s;
+    animation-duration: .8s;
+}
+
+.Share1:hover{
+    background-color: gray;
+    border-color: black;
+}
